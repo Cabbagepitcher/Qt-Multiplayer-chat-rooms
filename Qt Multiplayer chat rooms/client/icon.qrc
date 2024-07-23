@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>chat.ico</file>
+        <file>kx.svg</file>
+    </qresource>
+</RCC>
